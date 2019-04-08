@@ -7,4 +7,8 @@ Exports the following functions:
 
 *<Conversion result> convert(JSON-or-string)*: Converts the input to a collection object. Conversion result should be an object: `{result: true/false, reason: '', collection: <object>}` Reason must be populated if the result is false. Collection must be populated if result is true.
 
+## Which I fixed in this version
+
+- Parse body and responses from definitions models.
+
 > Forked from [s2p](https://github.com/postmanlabs/swagger2-postman2)

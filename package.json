@@ -1,6 +1,6 @@
 {
   "name": "swagger2-postman2-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module to convert swagger 2.0 JSONs to Postman Collection Format v2",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "js-yaml": "^3.13.1",
-    "json-schema-faker": "0.4.7",
     "lodash": "^4.17.11",
     "postman-collection": "^3.0.7",
+    "swagger-poser": "0.0.2",
     "uuid": "^3.3.2"
   },
   "repository": {
