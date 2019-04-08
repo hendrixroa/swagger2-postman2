@@ -1,4 +1,5 @@
 # swagger2-Postman
+Fork of project [Swagger2-Postman2](https://github.com/postmanlabs/swagger2-postman2)
 Converter for swagger 2.0 JSON to Postman Collection v2
 Exports the following functions:
 
