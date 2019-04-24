@@ -1,6 +1,6 @@
 {
   "name": "swagger2-postman2-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A module to convert swagger 2.0 JSONs to Postman Collection Format v2",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,6 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.11",
     "postman-collection": "^3.0.7",
-    "swagger-poser": "0.0.2",
     "uuid": "^3.3.2"
   },
   "repository": {
@@ -36,8 +35,8 @@
     "eslint": "^5.16.0",
     "eslint-plugin-security": "^1.4.0",
     "istanbul": "0.4.5",
-    "mocha": "^6.1.1",
-    "nsp": "3.1.0"
+    "mocha": "^6.1.4",
+    "nsp": "^3.2.1"
   },
   "com_postman_plugin": {
     "type": "importer",
